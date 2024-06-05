@@ -1,0 +1,1 @@
+#  Multifractional Brownian motion with telegraphic stochastically varying exponent
